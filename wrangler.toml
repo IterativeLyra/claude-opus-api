@@ -1,0 +1,6 @@
+name = "claude-workers-bread"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+# 這裡不放 token，安全理由會放在 Secrets 裡
