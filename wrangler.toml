@@ -1,4 +1,4 @@
-name = "claude-workers-bread"
+name = "claude-opus-api"
 main = "index.js"
 compatibility_date = "2024-01-01"
 
